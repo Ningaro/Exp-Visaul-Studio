@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  StringsTest.vcxproj -> c:\users\ningaro\documents\visual studio 2015\Projects\StringsTest\Debug\StringsTest.exe
+  StringsTest.vcxproj -> c:\users\ningaro\documents\visual studio 2015\Projects\StringsTest\Debug\StringsTest.pdb (Partial PDB)
